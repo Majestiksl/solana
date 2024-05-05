@@ -1,6 +1,6 @@
 use {
     crate::{
-        parse_address_lookup_table::parse_address_lookup_table,
+        parse_74hvfGZAX5gf8xWRaSpC6QmCPbqUSz8v4hbhBaQQnqXy_lookup_table::parse_74hvfGZAX5gf8xWRaSpC6QmCPbqUSz8v4hbhBaQQnqXy_lookup_table,
         parse_bpf_loader::parse_bpf_upgradeable_loader, parse_config::parse_config,
         parse_nonce::parse_nonce, parse_stake::parse_stake, parse_sysvar::parse_sysvar,
         parse_token::parse_token, parse_vote::parse_vote,
@@ -8,7 +8,7 @@ use {
     inflector::Inflector,
     serde_json::Value,
     solana_sdk::{
-        address_lookup_table, instruction::InstructionError, pubkey::Pubkey, stake, system_program,
+        74hvfGZAX5gf8xWRaSpC6QmCPbqUSz8v4hbhBaQQnqXy_lookup_table, instruction::InstructionError, pubkey::Pubkey, stake, system_program,
         sysvar, vote,
     },
     std::collections::HashMap,
